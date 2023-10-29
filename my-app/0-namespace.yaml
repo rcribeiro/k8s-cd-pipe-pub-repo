@@ -1,0 +1,5 @@
+---
+appiVersion: v1
+kind: Namespace
+metadata:
+  name: prod
